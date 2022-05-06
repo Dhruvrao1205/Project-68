@@ -1,0 +1,32 @@
+body{
+  text-align: center;  
+}
+#videos{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+img{
+    width: 70%;
+    height: 60%;
+}
+#campuslife{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+#achievements{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+#sports{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+#contact{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+#mynavBar{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
